@@ -1,5 +1,5 @@
 # A simple library API
-This is a simple library API where you can do CRUD operations for book categories and books.
+This is a simple library API that I've learned from Django and DjangoRESTFramework documentation; where you can do CRUD operations for book categories and books.
 
 # How to start
 ## Install reqirments and virtual env
